@@ -1,14 +1,24 @@
 ### Hi  👋 , I´m Sung
+<br>
 
--  🌱 I’m currently learning angular and dotNet development
+<h3 align="center">Looking for the future, raised on kimchi and coxinha 🇰🇷 🇧🇷</h3>
+<br>
+
+-  🌱 I’m currently working on angular and dotNet development
+-  🤝 I’m available for freelancing.
+-  📫 How to reach me **nosungju@gmail.com**
 
 -  ⚡ Fun fact i was one of the South Korean Group BTS backdancer
   
-<a href="https://www.linkedin.com/in/sung-ju-no-5887b6163/" alt="Linkedin"  target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sung-ju-no-5887b6163/" /></a>
-  
-  <a href="https://www.instagram.com/nosungju/" alt="Instagram"   target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nosungju/"/></a>
+<br>
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sung-ju-no-5887b6163/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/nosungju/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+ </div>
+
 <!--
 **Sungjuno/Sungjuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
