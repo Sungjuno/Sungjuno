@@ -1,7 +1,7 @@
 ### Hi  👋 , I´m Sung
 <br>
 
-<h3 align="center">Looking for the future, raised on kimchi and coxinha 🇰🇷 🇧🇷</h3>
+<h3 align="center">Looking to the future, raised on kimchi and coxinha 🇰🇷 🇧🇷</h3>
 <br>
 
 -  🌱 I’m currently working on angular and dotNet development
