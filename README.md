@@ -18,7 +18,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/nosungju/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://nosungjuhere.web.app/">
-			<img src="https://icons8.com/icon/23877/resume"></a>
+			<img src="https://img.icons8.com/ios-glyphs/512/internet--v1.png"></a>
  </div>
 
 <!--
