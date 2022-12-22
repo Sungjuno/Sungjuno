@@ -1,7 +1,7 @@
 ### Hi  👋 , I´m Sung
 <br>
 
-<h3 align="center">Looking forward to the future, raised on kimchi and coxinha 🇰🇷 🇧🇷</h3>
+<h3 align="center">Raised on kimchi and coxinha 🇰🇷 🇧🇷</h3>
 <br>
 
 -  🌱 I’m currently working on angular and dotNet development
@@ -17,8 +17,8 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/nosungju/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://nosungjuhere.web.app/">
-			<img src="https://img.icons8.com/ios-glyphs/512/internet--v1.png"></a>
+	<a style="margin-left: 10px" target="_blank" href="https://nosungjuhere.web.app/">
+			<img src="https://img.icons8.com/ios-glyphs/512/internet--v1.png" style="width: 42px"></a>
  </div>
 
 <!--
