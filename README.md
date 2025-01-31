@@ -1,7 +1,3 @@
-### Hi  👋 , I´m Sung
-
--  🌱 I’m currently working on angular and dotNet development
--  🤝 I’m available for freelancing.
 -  📫 How to reach me **nosungju@gmail.com**
   
 <br>
